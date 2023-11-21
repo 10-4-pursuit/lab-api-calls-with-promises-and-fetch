@@ -27,7 +27,7 @@ You may use the following HTML format for each trivia question. Replace the text
   <h2>CATEGORY</h2>
   <p>QUESTION</p>
   <button>Show Answer</button>
-  <p class="hidden">CORRECT ANSWER</p>
+  <p class="hidden">correct_answer</p>
 </article>
 ```
 
