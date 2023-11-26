@@ -66,3 +66,20 @@ button:hover {
 .hidden {
   display: none;
 }
+
+.difficulty-easy {
+  border-color: green;
+}
+
+.difficulty-medium {
+  border-color: yellow;
+}
+
+.difficulty-hard {
+  border-color: red;
+}
+
+.correct-answer {
+  font-weight: bold;
+  color: green;
+}
