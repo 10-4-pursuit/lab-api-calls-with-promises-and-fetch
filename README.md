@@ -5,6 +5,11 @@ Now that you can access data from JSON APIs, build a trivia application that mak
 ![Image of a completed lab.](./assets/preview.png)
 
 ---
+## Table of Contents
+
+- [Lab Setup](#lab-setup)
+- [Instructions](#instructions)
+- [Demo](#demo)
 
 ## Lab Setup
 
@@ -42,3 +47,6 @@ Once you have completed the base requirements above, complete the following task
 - [ ] Add a dropdown to the form so that the user can select what category they'd like for their questions. When the form is submitted, update the API call so that only those types of questions are retrieved.
 
 - [ ] The multiple choice questions include a series of incorrect answers in addition to the correct answer. Update your web application so that all of the answers are displayed. Then, have the button click highlight the correct answer with CSS.
+
+## Demo
+Visit the [live demo](https://bperalta14.github.io/lab-api-calls-with-promises-and-fetch/) to see the project in action.
