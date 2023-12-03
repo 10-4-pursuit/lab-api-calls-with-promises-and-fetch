@@ -66,3 +66,16 @@ button:hover {
 .hidden {
   display: none;
 }
+
+/* Add styles for the card's difficulty level */
+/* .card { */
+  /* Existing styles */
+
+  /* Additional styles for difficulty level */
+  /* border: 3px solid #4f7d5d;
+} */
+
+/* Add styles for the highlighted correct answer */
+/* .card p.hidden {
+  background-color: #7FFF7F; /* Same color as in the revealAnswer function */
+} */
